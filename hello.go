@@ -17,7 +17,7 @@ const (
 
 //全局变量
 var (
-	name     = "gopher"
+	name     = "gophe111r"
 	testname = "testname"
 )
 
